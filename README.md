@@ -178,7 +178,7 @@ Người dùng phải luôn hiểu lý do tại sao bạn yêu cầu [vị trí]
 
 ![][41]**Làm**: Luôn yêu cầu quyền truy cập vào vị trí dựa trên cử chỉ của người dùng.
 
-![][42]**L**: Yêu cầu ngay lập tức trên trang chủ khi trang web tải kết quả trong trải nghiệm người dùng kém.
+![][42]**Kh**: Yêu cầu ngay lập tức trên trang chủ khi trang web tải kết quả trong trải nghiệm người dùng kém.
 
 [1]: https://developers.google.com/web/images/contributors/jennygove.jpg
 [2]: https://www.google.com/think/multiscreen/whitepaper-sitedesign.html?utm_source=web-fundamentals&utm_term=chrome&utm_content=ux-landing&utm_campaign=web-fundamentals
