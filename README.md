@@ -16,15 +16,15 @@ Nghiên cứu đã phát hiện 25 nguyên tắc thiết kế trang web dành ch
 
 ## Trang chủ và điều hướng trang web
 
-**Success:** Tập trung vào trang chủ của bạn trên mobile để kết nối người dùng với nội dung họ đang tìm kiếm
+**Mục tiêu:** Tập trung vào trang chủ của bạn trên mobile để kết nối người dùng với nội dung họ đang tìm kiếm
 
 ### Giữ lời gọi hành động ở phía trước và giữa
 
 Thực hiện các tác vụ phụ thông qua [menus][3] hoặc "dưới màn hình đầu tiên" (một phần của trang web không thể xem được nếu không cuộn xuống).
 
-![][4]**DO**: Làm cho tất cả các tác vụ phổ biến nhất của người dùng trở nên dễ dàng và khả dụng . 
+![][4]**Nên**: Làm cho tất cả các tác vụ phổ biến nhất của người dùng trở nên dễ dàng và khả dụng . 
 
-![][5]**DON'T**: Lãng phí không gian quý giá trên màn hình đầu tiên với các lời kêu gọi hành động mơ hồ như "tìm hiểu thêm". 
+![][5]**Không nên**: Lãng phí không gian quý giá trên màn hình đầu tiên với các lời kêu gọi hành động mơ hồ như "tìm hiểu thêm". 
 
 ### Giữ các menu ngắn gọn và hấp dẫn.
 
@@ -39,7 +39,7 @@ Người dùng mong muốn quay lại trang chủ khi họ chạm vào biểu t�
 
 ### Đừng để quảng cáo chiểm hết phần hiển thị
 
-Quảng cáo xen kẽ cài đặt ứng dụng lớn (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và làm cho việc thực hiện các tác vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, [các trang web sử dụng quảng cáo chuyển tiếp có thể thấy tác động tiêu cực đến xếp hạng tìm kiếm của họ][8].
+Các quảng cáo xen kẽ có kích cỡ lớn mà yêu cầu cài đặt app (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và làm cho việc thực hiện các tác vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, [các trang web sử dụng quảng cáo chuyển tiếp có thể thấy tác động tiêu cực đến xếp hạng tìm kiếm của họ][8].
 
 ![][9]**DO**: Quảng cáo phải dễ dàng loại bỏ và không làm sao lãng trải nghiệm.
 
@@ -166,7 +166,7 @@ Những người tham gia nghiên cứu có khuynh hướng ở cùng một hư�
 
 ![][39]**DO**: Macy's giữ người dùng của họ trên trang web của họ bằng cách cung cấp phiếu giảm giá trên trang web.
 
-Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. ránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành động nào có thể khiến người dùng nhìn ra bên ngoài trang web của bạn và cung cấp các tính năng để giữ chúng trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu giảm giá , hãy cung cấp phiếu giảm giá trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác để giao dịch.
+Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. Tránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành động nào có thể khiến người dùng điều hướng ra bên ngoài trang web của bạn và cung cấp các tính năng để giữ họ trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu giảm giá , hãy cung cấp phiếu giảm giá trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác để giao dịch.
 
 ### Tránh ghi nhãn "full site"
 
@@ -174,11 +174,11 @@ Khi những người tham gia nghiên cứu thấy một tùy chọn cho "full s
 
 ### Hãy làm rõ lý do bạn cần vị trí của người dùng.
 
-Người dùng phải luôn hiểu lý do tại sao bạn yêu cầu [vị trí][40] của họ. Những người tham gia nghiên cứu cố gắng đặt một khách sạn ở một thành phố khác trở nên bối rối khi một trang web du lịch phát hiện vị trí của họ và cung cấp các khách sạn trong thành phố hiện tại của họ thay vào đó. Để trống trường vị trí theo mặc định, và cho phép người dùng chọn nơi phổ biến của họ thông qua hành động rõ ràng như "tìm gần tôi".
+Người dùng phải luôn hiểu lý do tại sao bạn yêu cầu [vị trí][40] của họ. Những người tham gia nghiên cứu cố gắng đặt một khách sạn ở một thành phố khác trở nên bối rối khi một trang web du lịch phát hiện vị trí của họ và đề xuất các khách sạn trong thành phố hiện tại của họ thay vào đó. Để trống trường vị trí theo mặc định, và cho phép người dùng chọn nơi phổ biến của họ thông qua hành động rõ ràng như "tìm gần tôi".
 
 ![][41]**DO**: Luôn yêu cầu quyền truy cập vào vị trí dựa trên cử chỉ của người dùng.
 
-![][42]**DON'T**: Yêu cầu ngay lập tức trên trang chủ khi trang web tải kết quả trong trải nghiệm người dùng kém.
+![][42]**DON'T**: Yêu cầu ngay lập tức trên trang chủ khi trang web đang tải sẽ dẫn đến trải nghiệm người dùng kém.
 
 [1]: https://developers.google.com/web/images/contributors/jennygove.jpg
 [2]: https://www.google.com/think/multiscreen/whitepaper-sitedesign.html?utm_source=web-fundamentals&utm_term=chrome&utm_content=ux-landing&utm_campaign=web-fundamentals
